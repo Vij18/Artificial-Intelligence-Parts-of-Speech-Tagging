@@ -1,4 +1,4 @@
-# B551 Assignment 3: Probability and Statistical Learning for NLP
+# B551 Assignment 3: Parts of Speech Tagging
 ##### Submission by Sri Harsha Manjunath - srmanj@iu.edu; Vijayalaxmi Bhimrao Maigur - vbmaigur@iu.edu; Disha Talreja - dtalreja@iu.edu
 ###### Fall 2019
 
